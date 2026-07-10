@@ -2,23 +2,6 @@
   <img src="./banner.svg" alt="GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">AL ADLHU SODRI NIWRAD</h1>
-
-<p align="center">
-  <strong>UI/UX Designer • Aspiring Full Stack Developer</strong><br>
-  Informatics Engineering Student at Universitas Maritim Raja Ali Haji
-</p>
-
-<p align="center">
-  <a href="mailto:asodriniwrad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/aladlhuu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
