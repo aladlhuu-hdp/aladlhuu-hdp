@@ -1,82 +1,99 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.svg" alt="GitHub Banner" width="100%" />
+</p>
 
-# Hi, I'm Al Adlhu Sodri Niwrad 👋
+<h1 align="center">AL ADLHU SODRI NIWRAD</h1>
 
-### UI/UX Designer • Aspiring Full Stack Developer
+<p align="center">
+  <strong>UI/UX Designer • Aspiring Full Stack Developer</strong><br>
+  Informatics Engineering Student at Universitas Maritim Raja Ali Haji
+</p>
 
-_Informatics Engineering Student at Universitas Maritim Raja Ali Haji_
-
-</div>
+<p align="center">
+  <a href="mailto:asodriniwrad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aladlhuu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an Informatics Engineering student passionate about creating modern, user-centered digital products.
+I'm an Informatics Engineering student with a strong interest in **UI/UX Design** and **Full Stack Web Development**. I enjoy transforming ideas into intuitive, user-centered digital experiences while continuously improving my technical and problem-solving skills.
 
-My interests span across **UI/UX Design**, **Frontend Development**, and **Full Stack Web Development**. I enjoy turning ideas into functional applications while continuously improving my technical and problem-solving skills.
-
-Currently, I'm expanding my knowledge through academic projects, organizational activities, and personal development.
+Currently, I am developing my expertise through personal projects, organizational initiatives, and continuous learning.
 
 ---
 
-## 🚀 Current Focus
+## 🎯 Current Focus
 
-- Designing intuitive user interfaces
-- Learning Full Stack Web Development
-- Building responsive web applications
-- Exploring Open Source projects
+- 🎨 UI/UX Design
+- ⚛️ Frontend Development with React & Next.js
+- 🚀 Learning Full Stack Web Development
+- 📱 Building responsive and accessible web applications
+- 🌱 Exploring Open Source
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind" />
 </p>
 
-### Database & Backend
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode,linux" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | **MIT Hackathon Website** | Registration platform built with Next.js & Supabase |
 | **HMTI Website** | Official website for HMTI UMRAH |
-| **Personal Portfolio** | Personal website showcasing projects and experience |
-| **UI/UX Design** | Interface and user experience case studies |
+| **Personal Portfolio** | Portfolio website showcasing projects and experience |
+| **UI/UX Design Projects** | Interface and user experience case studies created in Figma |
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aladlhuu-hdp&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladlhuu-hdp&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aladlhuu-hdp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladlhuu-hdp&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aladlhuu-hdp&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=aladlhuu-hdp&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aladlhuu-hdp&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -86,27 +103,26 @@ Currently, I'm expanding my knowledge through academic projects, organizational 
 - Advanced React
 - Next.js
 - Laravel
-- REST API
+- REST API Development
 - Software Architecture
+- UI Design Systems
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="left">
-<a href="https://www.instagram.com/aladlhuu/">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+<p align="center">
+  <a href="mailto:asodriniwrad@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="mailto:asodriniwrad@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+  <a href="https://www.instagram.com/aladlhuu/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-
-*"Learning continuously, building consistently."*
-
-</div>
+<p align="center">
+  <i>"Learning continuously, building consistently."</i>
+</p>
