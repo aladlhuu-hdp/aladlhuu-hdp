@@ -3,7 +3,7 @@
 </p>
 
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an Informatics Engineering student with a strong interest in **UI/UX Design** and **Full Stack Web Development**. I enjoy transforming ideas into intuitive, user-centered digital experiences while continuously improving my technical and problem-solving skills.
 
@@ -11,17 +11,17 @@ Currently, I am developing my expertise through personal projects, organizationa
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🎨 UI/UX Design
-- ⚛️ Frontend Development with React & Next.js
-- 🚀 Learning Full Stack Web Development
-- 📱 Building responsive and accessible web applications
-- 🌱 Exploring Open Source
+- UI/UX Design
+- Frontend Development with React & Next.js
+- Learning Full Stack Web Development
+- Building responsive and accessible web applications
+- Exploring Open Source
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -49,7 +49,7 @@ Currently, I am developing my expertise through personal projects, organizationa
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -60,7 +60,7 @@ Currently, I am developing my expertise through personal projects, organizationa
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aladlhuu-hdp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
@@ -73,7 +73,7 @@ Currently, I am developing my expertise through personal projects, organizationa
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aladlhuu-hdp&theme=github-compact&hide_border=true" />
@@ -81,7 +81,7 @@ Currently, I am developing my expertise through personal projects, organizationa
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced React
 - Next.js
@@ -92,7 +92,7 @@ Currently, I am developing my expertise through personal projects, organizationa
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:asodriniwrad@gmail.com">
